@@ -65,46 +65,22 @@ python network_scanner.py
 ## 📸 Project Screenshots
 
 ### 📁 Project Folder
-
-![Project Folder](Task-1%20Network%20scanner.png)
+![Project Folder](Task-1%20Network%20scanner.jpeg)
 
 ---
 
 ### 💻 Terminal Output
-
-![Terminal Output](Terminal%20output.png)
+![Terminal Output](Terminal%20output.jpeg)
 
 ---
 
 ### 🐍 Python Source Code
-
-![Python Code](network_scanner.py.png)
+![Python Code](network_scanner.py.jpeg)
 
 ---
 
 ### 📄 JSON Scan Results
-
-![JSON Output](scan%20result.json.png)
-
----
-
-## 📊 Output
-
-The scanner generates a JSON file named:
-
-```
-scan_results.json
-```
-
-Example:
-
-```json
-{
-    "192.168.56.102": {}
-}
-```
-
----
+![JSON Output](scan%20result.json.jpeg)
 
 ## 🎯 Learning Outcomes
 
