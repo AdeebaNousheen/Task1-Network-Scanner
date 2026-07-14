@@ -1,0 +1,98 @@
+{
+    "192.168.56.102": {
+        "tcp": {
+            "21": {
+                "service": "ftp",
+                "version": "vsftpd"
+            },
+            "22": {
+                "service": "ssh",
+                "version": "OpenSSH"
+            },
+            "23": {
+                "service": "telnet",
+                "version": "Linux telnetd"
+            },
+            "25": {
+                "service": "smtp",
+                "version": "Postfix smtpd"
+            },
+            "53": {
+                "service": "domain",
+                "version": "ISC BIND"
+            },
+            "80": {
+                "service": "http",
+                "version": "Apache httpd"
+            },
+            "111": {
+                "service": "rpcbind",
+                "version": ""
+            },
+            "139": {
+                "service": "netbios-ssn",
+                "version": "Samba smbd"
+            },
+            "445": {
+                "service": "netbios-ssn",
+                "version": "Samba smbd"
+            },
+            "512": {
+                "service": "exec",
+                "version": "netkit-rsh rexecd"
+            },
+            "513": {
+                "service": "login",
+                "version": ""
+            },
+            "514": {
+                "service": "shell",
+                "version": "Netkit rshd"
+            },
+            "1099": {
+                "service": "java-rmi",
+                "version": "GNU Classpath grmiregistry"
+            },
+            "1524": {
+                "service": "bindshell",
+                "version": "Metasploitable root shell"
+            },
+            "2049": {
+                "service": "nfs",
+                "version": ""
+            },
+            "2121": {
+                "service": "ftp",
+                "version": "ProFTPD"
+            },
+            "3306": {
+                "service": "mysql",
+                "version": "MySQL"
+            },
+            "5432": {
+                "service": "postgresql",
+                "version": "PostgreSQL DB"
+            },
+            "5900": {
+                "service": "vnc",
+                "version": "VNC"
+            },
+            "6000": {
+                "service": "X11",
+                "version": ""
+            },
+            "6667": {
+                "service": "irc",
+                "version": "UnrealIRCd"
+            },
+            "8009": {
+                "service": "ajp13",
+                "version": "Apache Jserv"
+            },
+            "8180": {
+                "service": "http",
+                "version": "Apache Tomcat/Coyote JSP engine"
+            }
+        }
+    }
+}
