@@ -92,6 +92,14 @@ python network_scanner.py
 
 ---
 
+# 📄 Project Report
+
+A detailed report describing the project objective, methodology, tools used, implementation, results, and conclusion is included in this repository.
+
+📥 **Download the Project Report:**
+
+👉 [Cyber Project – Task 1 - Network Scanner using Python & Nmap.docx](Cyber%20Project%20%E2%80%93%20Task%201-Network%20Scanner%20using%20Python%20%26%20Nmap.docx)
+
 ## 👩‍💻 Author
 
 **Adeeba Nousheen**
