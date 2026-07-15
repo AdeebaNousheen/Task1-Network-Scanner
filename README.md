@@ -98,7 +98,7 @@ A detailed report describing the project objective, methodology, implementation,
 
 📥 **Download the Project Report**
 
-[📄 Project Report (PDF)](Project_Report_Task1.pdf)
+[📄 Cyber Project – Task 1-Network Scanner using Python & Nmap.pdf](Cyber%20Project%20%E2%80%93%20Task%201-Network%20Scanner%20using%20Python%20%26%20Nmap.pdf)
 
 ## 👩‍💻 Author
 
